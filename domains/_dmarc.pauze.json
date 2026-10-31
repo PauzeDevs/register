@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "PauzeDevs",
+    "email": "githubpauze@gmail.com"
+  },
+  "records": {
+    "TXT": "v=DMARC1; p=quarantine; rua=mailto:dmarc@syncgaze.in"
+  }
+}
